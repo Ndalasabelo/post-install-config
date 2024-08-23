@@ -12,6 +12,9 @@ Configure Departments.
 - Admin Panel -> Agents -> Departments
 - add System Administrators.
 
+![image](https://github.com/user-attachments/assets/6766fcf2-512c-4cb5-85f0-2497668c7eeb)
+
+
 Configure Teams.
 
 - Admin Panel -> Agents -> Teams
