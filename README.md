@@ -44,6 +44,9 @@ Configure SLA.
 - create Sev-B (4 hours, 24/7)
 - create Sev-C (8 hours, business hours).
 
+![image](https://github.com/user-attachments/assets/74e9cba9-60fc-4cb9-87e0-5cb1da627edc)
+
+
 Configure Help Topics.
 
 - Admin Panel -> Manage -> Help Topics
