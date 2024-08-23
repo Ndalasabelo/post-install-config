@@ -37,7 +37,8 @@ Configure Users (customers).
 - create user Jeff
 - create user Ken.
 
-![image](https://github.com/user-attachments/assets/99bec99a-f28a-4580-bde9-8cf50e4be913)
+![image](https://github.com/user-attachments/assets/f75c5081-814c-4b22-93ac-eacdf1d8d44d)
+
 
 
 Configure SLA.
