@@ -34,8 +34,11 @@ Configure Agents (workers).
 Configure Users (customers).
 
 - Agent Panel -> Users -> Add New
-- create user Karen
+- create user Jeff
 - create user Ken.
+
+![image](https://github.com/user-attachments/assets/99bec99a-f28a-4580-bde9-8cf50e4be913)
+
 
 Configure SLA.
 
