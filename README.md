@@ -4,6 +4,9 @@ Configure Roles.
 - Admin Panel -> Agents -> Roles
 - add Supreme Admin.
 
+![image](https://github.com/user-attachments/assets/a91e4434-bfb7-4b50-a888-1f03eba9c47b)
+
+
 Configure Departments.
 
 - Admin Panel -> Agents -> Departments
